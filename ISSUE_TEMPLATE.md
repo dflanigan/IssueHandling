@@ -1,6 +1,9 @@
 ### Title
 A short but descriptive summary of the bug issue
 
+### Contact Information
+If communicating through GitHub is not enough, please list contact information like a email address or phone number.
+
 ### Labal
 Assign a GitHub Label to this issue. Do not create labels, use an existing one. Do not assign Priority labels. Use a Bug severity label:
  1. **Bug Severity 1 (Critical)** : Defect is causing systems to be offline and/or nonfunctional. immediate attention is required.
