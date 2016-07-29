@@ -1,6 +1,14 @@
 ### Title
 A short but descriptive summary of the bug issue
 
+### Labal
+Assign a GitHub Label to this issue. Do not create labels, use an existing one. Do not assign Priority labels. Use a Bug severity label:
+ 1. **Bug Severity 1 (Critical)** : Defect is causing systems to be offline and/or nonfunctional. immediate attention is required.
+ 2. **Bug Severity 2 (High)** : Defect is causing major obstruction of system operations.
+ 3. **Bug Severity 3 (Medium)** : Defect is causing intermittent errors in system operations.
+ 4. **Bug Severity 4 (Low)** : Defect is causing infrequent interuptions in system operations.
+ 5. **Bug Severity 5 (Trival)** : Defect is not causing any interuptions to system operations, but none-the-less is a bug.
+ 
 ### Description 
 A description of the bug and the circumstances in which this bug presented itself. It is important
 to include enough information to be able to recreate the problem.
