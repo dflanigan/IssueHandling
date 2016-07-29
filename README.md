@@ -1,22 +1,13 @@
 # Issue Handling and Tagging
 
 This is an outline on the procedures for processsing and prioritising Bugs submitted to F5 Openstack projects.
-
-### Submitting a Bug Issue
-# Tasks for submitting bug
- * Use a label for setting the Bug Severtity, do not set the Priority Level
- * Fill out the template
- * Attach if possible:
-   * configuration files
-   * Log files
-
-# Tasks for Triaging Bug issues.
- * Set the Priority levels for new bugs
- * Review the Priority levels for existing bugs.
+Users submitting bugs should fill out as much information asked for in the ISSUE_TEMPLATE.md file. Issues should
+be review daily to handle critical bugs, but weekly to triage all others. See the TriagingBugIssues.md file for more
+details. 
 
 ### Bug Severity Levels
  * Set by User
- * Notifications are set to a Slack Channel when an issue is created.
+ * Notifications are sent to a Slack Channel when an issue is created.
  
  1. **Bug Severity 1 (Critical)** : Defect is causing systems to be offline and/or nonfunctional. immediate attention is required.
  2. **Bug Severity 2 (High)** : Defect is causing major obstruction of system operations.
@@ -25,7 +16,7 @@ This is an outline on the procedures for processsing and prioritising Bugs submi
  5. **Bug Severity 5 (Trival)** : Defect is not causing any interuptions to system operations, but none-the-less is a bug.
  
 ### Development Priority Levels
- * Set by F5
+ * Set by F5 during a triage meeting. 
  
  1. **Priority Level 1 (Critical)** : A release to fix the bug is required as soon as possible.
  2. **Priority Level 2 (High)** : The solution to the bug will be delivered in the next sprint release 
