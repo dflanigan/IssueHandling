@@ -22,7 +22,7 @@ This is an outline on the procedures for processsing and prioritising Bugs submi
  2. **Bug Severity 2 (High)** : Defect is causing major obstruction of system operations.
  3. **Bug Severity 3 (Medium)** : Defect is causing intermittent errors in system operations.
  4. **Bug Severity 4 (Low)** : Defect is causing infrequent interuptions in system operations.
- 5. **Bug Severity 5 (Trival)** : Defect is not causing any interuptions to system operations, but non-the-less is a bug.
+ 5. **Bug Severity 5 (Trival)** : Defect is not causing any interuptions to system operations, but none-the-less is a bug.
  
 ### Development Priority Levels
  * Set by F5
