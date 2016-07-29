@@ -29,8 +29,8 @@ This is an outline on the procedures for processsing and prioritising Bugs submi
  
  1. **Priority Level 1 (Critical)** : A release to fix the bug is required as soon as possible.
  2. **Priority Level 2 (High)** : The solution to the bug will be delivered in the next sprint release 
- 3. **Priority Level 3 (Medium)** :
- 4. **Priority Level 4 (Low)** :
- 5. **Priority Level 5 (Defer)** :
+ 3. **Priority Level 3 (Medium)** : A bug fix will handled as soon as possible.
+ 4. **Priority Level 4 (Low)** : A bug fix will come, but it may be in a couple sprints
+ 5. **Priority Level 5 (Defer)** : A bug fix will be included with releases that deal with technical debt.
 
 
